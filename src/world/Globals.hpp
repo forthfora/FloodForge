@@ -47,7 +47,6 @@ namespace EditorState {
 	extern int roomPositionType;
 	extern bool visibleLayers[LAYER_COUNT];
 	extern bool visibleDevItems;
-	extern bool syncDevAndCanon;
 	
 	extern Region region;
 
